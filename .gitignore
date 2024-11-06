@@ -1,1 +1,5 @@
 *.csv
+*.pyc
+*.json
+
+__pycache__/
