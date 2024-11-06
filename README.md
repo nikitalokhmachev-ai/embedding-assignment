@@ -1,5 +1,11 @@
 # Embedding Model Implementation for a Company Interview Coding Assignment
 
+#### To Reproduce...
+
+- Drop the `data.csv` file in the root of the repo.
+- Run `python main.py`
+- After execution, a new file called `search_results.json` will appear.
+
 #### Notes:
 
 - Overall, it took me ~6 hours to implement this assignment.
@@ -7,7 +13,7 @@
 - The average model performance speed is ~250 tokens/second.
 - The model accurately interpets NLP-based single-column queries.
 
-#### If I had more time...
+#### If I Had More Time...
 
 Several experimentation options here:
 
